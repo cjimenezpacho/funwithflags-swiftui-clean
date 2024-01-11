@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4CD9A8AE-36AE-43E9-A700-848AC4C66CD9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3EE59CB-EDDF-4073-BD9E-62ED56453E45"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FunWithFlags/DataSource/API/Requests/FetchCountriesRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getCountries()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A3EE59CB-EDDF-4073-BD9E-62ED56453E45 - f25bb6f830ca56ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FunWithFlags.FetchCountriesRequest.getCountries() async throws -&gt; Swift.Array&lt;FunWithFlags.Country&gt;"
+                  moduleName = "FunWithFlags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carlos/Documents/Projects/FunWithFlags/FunWithFlags/DataSource/API/Requests/FetchCountriesRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "A3EE59CB-EDDF-4073-BD9E-62ED56453E45 - f25bb6f830ca56ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FunWithFlags.FetchCountriesRequest.getCountries() async throws -&gt; Swift.Array&lt;FunWithFlags.Country&gt;"
+                  moduleName = "FunWithFlags"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carlos/Documents/Projects/FunWithFlags/FunWithFlags/DataSource/API/Requests/FetchCountriesRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
