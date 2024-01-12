@@ -12,6 +12,8 @@ class HomeViewModel {
     var flagUrl: String = ""
     var name: String = ""
     var population: String = ""
+    var lat: Float = 0.0
+    var lon: Float = 0.0
 
     let fetchRandomCountryUseCase: FetchRandomCountryUseCase
 
@@ -25,6 +27,8 @@ class HomeViewModel {
             flagUrl = country!.flag
             name = country!.name
             population = formatPopulation(population: country!.population)
+            lat = country!.lat
+            lon = country!.lon
         } catch {}
     }
 

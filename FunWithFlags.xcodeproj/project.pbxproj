@@ -115,8 +115,8 @@
 		07F7B89B2B4EF23E007B20DB /* UI */ = {
 			isa = PBXGroup;
 			children = (
-				07F7B89C2B4EF255007B20DB /* HomeView.swift */,
 				07F7B89E2B4F078F007B20DB /* HomeViewModel.swift */,
+				07F7B89C2B4EF255007B20DB /* HomeView.swift */,
 				07F7B8AD2B504909007B20DB /* FlagView.swift */,
 				07F7B8AF2B504E66007B20DB /* MapView.swift */,
 			);
